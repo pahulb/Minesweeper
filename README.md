@@ -1,2 +1,6 @@
-# Minesweeper
-This is a fun project that I made in c++ which was minesweeper. Which was my favorite childhood game.
+Minesweeper
+===========
+
+A c++ Minesweeper game
+
+Minesweeper lets you specify width, height, and number of mines. It also keeps track of how long you are taking.

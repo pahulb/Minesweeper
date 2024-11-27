@@ -50,7 +50,7 @@ The game is played through a command-line interface. You will be prompted to:
 
 ## Sample Example
 
-![image_2024-11-26_214552799](https://github.com/user-attachments/assets/a9293ad1-b069-4b3b-8095-752abb85fcc0)
+![image_2024-11-26_215001356](https://github.com/user-attachments/assets/5bfd0bf3-904f-47c5-bce4-3d7938016d79)
 
 ## Implementation
 

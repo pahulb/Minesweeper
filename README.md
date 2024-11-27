@@ -60,12 +60,12 @@ The `Board` class is responsible for:
 
 - Initializing the Minesweeper grid.
 - Placing mines and calculating hint numbers.
-- Displaying the current state of the board.
 
 ### Game Class (`game.cpp`)
 
 The `Game` class handles:
 
+- Displaying the current state of the board.
 - Managing player interactions.
 - Validating inputs and actions.
 - Determining win/loss conditions.
@@ -89,6 +89,5 @@ The main file orchestrates the gameplay loop by:
 
 Contributions are welcome! If you have ideas or improvements, feel free to create a pull request or open an issue.
 
-## License
-
-This project is licensed under the MIT License. See `LICENSE` for more details.
+-----
+Enjoy Minesweeper
